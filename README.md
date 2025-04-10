@@ -7,7 +7,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/neal-aerospace.git
+   git clone https://github.com/shanefeltman/neal-aerospace.git
    cd neal-aerospace
    ```
 
